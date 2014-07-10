@@ -1,0 +1,9 @@
+600
+objects
+Sphere -4 0 0 2 RED
+Sphere 4 3 6 2 GREEN
+Sphere 0 0 3 2 BLUE
+Plane 0 -2 0 0 1 0 GRAY
+camera
+0 1 -8 0 0 0  
+WHITE
